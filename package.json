@@ -1,0 +1,28 @@
+{
+  "name": "portalbackend",
+  "version": "0.0.1",
+  "description": "Portal backend to support ui requests.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "mongoose"
+  ],
+  "author": "mukesh",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "fs": "0.0.2",
+    "cors": "~2.7.1",
+    "cookie-parser": "~1.4.0",
+    "cluster": "~0.7.7",
+    "body-parser": "~1.14.1",
+    "lodash": "~3.10.1",
+    "express": "~4.13.3",
+    "q": "~1.4.1",
+    "bunyan": "~1.5.1",
+    "node-gyp": "~3.0.3",
+    "mongoose": "~4.2.5"
+  }
+}

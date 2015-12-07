@@ -1,0 +1,4 @@
+{
+  "restNamespace" : "/rest/v2",
+  "db"            : "mongodb://localhost:27017/portal-dev"
+}
